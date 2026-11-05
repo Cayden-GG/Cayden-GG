@@ -49,7 +49,7 @@ Full-stack software engineer and builder focused on architecting scalable backen
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Cayden-GG&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cayden-GG&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Cayden-GG&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
