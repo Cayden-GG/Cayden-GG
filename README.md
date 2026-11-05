@@ -30,17 +30,20 @@ Full-stack software engineer and builder focused on architecting scalable backen
 - **Databases & Tooling:** PostgreSQL, MongoDB, Git, Docker, Linux (Ubuntu/Arch), `uv`
 
 ---
-<!--
+
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[SiteAudit AI](https://github.com/Cayden-GG/site-audit-ai)** | Automated web auditing pipeline that crawls sitemaps, executes parallel Headless Lighthouse audits, and generates LLM-powered optimization reports. | Python, FastAPI, Lighthouse CLI, OpenAI API, Docker |
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | : --- |
+| **[SiteAudit AI](https://github.com/Cayden-GG/site-audit-ai)** | Automated web auditing pipeline that crawls sitemaps, executes parallel Headless Lighthouse audits, and generates LLM-powered optimization reports. | Python, FastAPI, Lighthouse CLI, OpenAI API, Docker | Complete |
+| **[multi-Platform Post Tool](https://github.com/Cayden-GG/multiPost)** | Automated social media upload tool, upload one post and automactically uploads to all connected social media platforms. | JavaScript, Express, MongoDB, Docker, Redis, TypeScript | In Progress |
+
+<!--
 | **[Micro-Habit Mobile App](https://github.com/your-username/micro-habit)** | Cross-platform mobile application structured for daily habit tracking, schedule management, and analytics visualization. | React Native, Expo, TypeScript |
 | **[Custom CRM & Email Pipeline](https://github.com/your-username/email-outreach-engine)** | Multi-tenant contact segmentation engine, automated campaign batching pipeline, and DMARC telemetry parser. | Python, FastAPI, MongoDB, Brevo API |
-
+--> 
 ---
--->
+
 ### 📈 GitHub Stats
 
 <p>
