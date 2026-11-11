@@ -35,7 +35,7 @@ Full-stack software engineer and builder focused on architecting scalable backen
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[SiteAudit AI](https://github.com/Cayden-GG/site-audit-ai)** | Automated web auditing pipeline that crawls sitemaps, executes parallel Headless Lighthouse audits, and generates LLM-powered optimization reports. | Python, FastAPI, Lighthouse CLI, OpenAI API, Docker | Complete |
+| **[SiteAudit AI](https://github.com/Cayden-GG/AuditAPI)** | Automated web auditing pipeline that crawls sitemaps, executes parallel Headless Lighthouse audits, and generates LLM-powered optimization reports. | Python, FastAPI, Lighthouse CLI, OpenAI API, Docker | Complete |
 | **[multi-Platform Post Tool](https://github.com/Cayden-GG/multiPost)** | Automated social media upload tool, upload one post and automactically uploads to all connected social media platforms. | JavaScript, Express, MongoDB, Docker, Redis, TypeScript | In Progress |
 ---
 <!--
